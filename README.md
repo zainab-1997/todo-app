@@ -49,4 +49,4 @@ The database file (`tasks.db`) is created automatically on first run.
 
 ## Author
 
-**Zainab Lami** · [GitHub](https://github.com/zainab-1997)
+**Zainab Al-Iqabi** · [GitHub](https://github.com/zainab-1997) · [LinkedIn](https://www.linkedin.com/in/zainab-al-iqabi-7098692a4/)
